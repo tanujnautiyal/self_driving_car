@@ -1,1 +1,1 @@
-# self_driving_car
+An autonomous vehicle, often referred to as a self-driving or driverless car, is a type of vehicle that can independently detect and respond to its environment. It is built to travel on roads with little to no assistance from a human driver while ensuring safe movement.
