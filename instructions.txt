@@ -1,0 +1,4 @@
+cd 'C:\Users\nauti\Desktop\Self Drive'
+conda activate car
+code .
+python drive.py
